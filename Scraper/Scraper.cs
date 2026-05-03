@@ -2,7 +2,8 @@
 using System.Threading.Tasks;
 using Microsoft.Playwright;
 
-class Scraperd
+namespace WebScraperML;
+class Scraper
 {
     static async Task Main(string[] args)
     {
